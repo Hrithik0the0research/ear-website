@@ -1,0 +1,8 @@
+opencv-contrib-python-headless
+opencv-python
+scikit-learn
+scikit-image
+matplotlib
+glob
+keras
+tensorflow
